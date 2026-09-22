@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+numpy
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+monai==1.2.0
+SimpleITK==2.2.1
+itk
+pynrrd
+pydicom
+pandas
+ultralytics==8.2.2
+nnunetv2
+matplotlib
